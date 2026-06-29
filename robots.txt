@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Bots indésirables (scrapers)
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+# Sitemap
+Sitemap: https://drbenhamed.com/sitemap.xml
